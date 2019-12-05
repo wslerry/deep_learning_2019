@@ -2,7 +2,7 @@
 
 Todo
 
-[] ## 1. Darknet
-[] ## 2. Resnet
-[] ## 3. Alexnet
-[] ## 4. Densenet
+[] Darknet
+[] Resnet
+[] Alexnet
+[] Densenet
