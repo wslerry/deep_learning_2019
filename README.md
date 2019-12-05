@@ -3,6 +3,6 @@
 Todo
 
 - [x] Darknet
-- [] Resnet
-- [] Alexnet
+- [ ] Resnet
+- [ ] Alexnet
 - [x] Densenet
